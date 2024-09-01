@@ -1,0 +1,1 @@
+export const MONGO_URI='mongodb+srv://shubhambhalodia:bccksw6QziQBZT1b@cluster0.94rmkan.mongodb.net/'
